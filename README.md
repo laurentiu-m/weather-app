@@ -1,5 +1,7 @@
 # Weather App React
 
+![weather-app-gif](https://github.com/lawrpunk/weather-app/assets/115019706/c7db56a0-648c-4d12-bd20-32aea3d5f2ba)
+
 ## Description
 
 Weather App is a weather application built using React and Vite. With this app users can easily check the current weather conditions for locations around the world by simply typing the city or location name into the search bar.
